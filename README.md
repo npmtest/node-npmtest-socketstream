@@ -1,6 +1,6 @@
 # npmtest-socketstream
 
-#### test coverage for  [socketstream (v0.5.3)](http://www.socketstream.org)  [![npm package](https://img.shields.io/npm/v/npmtest-socketstream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-socketstream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-socketstream.svg)](https://travis-ci.org/npmtest/node-npmtest-socketstream)
+#### basic test coverage for  [socketstream (v0.5.3)](http://www.socketstream.org)  [![npm package](https://img.shields.io/npm/v/npmtest-socketstream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-socketstream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-socketstream.svg)](https://travis-ci.org/npmtest/node-npmtest-socketstream)
 
 #### A framework for Realtime Web Apps
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-socketstream/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-socketstream/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-socketstream/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-socketstream/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-socketstream/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-socketstream/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-socketstream/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-socketstream/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-socketstream/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-socketstream/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-socketstream/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-socketstream/build/coverage.html/index.html)
 
